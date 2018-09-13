@@ -1,0 +1,36 @@
+_repo: Shatter-the-Wall_51576
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: West
+    gutenberg_agent_id: '48875'
+    url: http://www.gutenberg.org/2009/agents/48875
+creator:
+  author:
+    agent_name: Van Scyoc, Sydney J.
+    aliases:
+    - Scyoc, Sydney J. Van
+    - Brown, Sydney Joyce
+    - Scyoc, Sydney Van
+    birthdate: 1939
+    gutenberg_agent_id: '46089'
+    url: http://www.gutenberg.org/2009/agents/46089
+    wikipedia: https://en.wikipedia.org/wiki/Sydney_J._Van_Scyoc
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Shatter the Wall
+url: http://www.gutenberg.org/ebooks/51576
